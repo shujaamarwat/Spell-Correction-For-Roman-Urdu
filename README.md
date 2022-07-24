@@ -1,4 +1,4 @@
-# Spell-Correction-For-Roman-Urdu
+# Spell Correction For Roman Urdu
  
 Implementation of a spell correction program for Roman Urdu in Python using the Noisy Channel model based on Bayes Theorem.
 
